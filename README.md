@@ -1,5 +1,5 @@
 GIGABYTE Z490 VISION D Hackintosh
-
+[Screenshot](screenshot.png)
 (-*-)
 
 Here are the main specs:
