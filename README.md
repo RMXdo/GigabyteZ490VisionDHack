@@ -12,7 +12,7 @@ Here are the main specs:
 
 • Memory: Corsair Vengeance LPX 64 GB (2x32 GB) DDR4 3200 (CMK64GX4M2E3200C16)
 
-• Storage: Samsung 980 Pro 1TB MZ-V8P1T0BW, Sabrent Rocket 2TB Nvme, WD Black WDS250G2X0C 250GB
+• Storage: Samsung 980 Pro 1TB MZ-V8P1T0BW, Sabrent Rocket 2TB Nvme, WD Black WDS250G2X0C 250GB (Windows 10 installed)
 
 • PSU: PSU: Super Flower Leadex Platinum 2000w
 
@@ -25,6 +25,8 @@ Here are the main specs:
 • Keyboards: Logitech Craft 
 
 • Mouses/Trackpad: Corsair M65 RGB Elite
+
+• Xbox Elite Wireless Controller Series 2
 
 • External SoundCard: Creative Sound BlasterX G5
 
