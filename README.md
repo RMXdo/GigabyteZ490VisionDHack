@@ -1,5 +1,7 @@
 GIGABYTE Z490 VISION D Hackintosh
-[Screenshot](https://github.com/Hckntsh/GigabyteZ490VisionDHack/blob/main/Screenshot.png)
+
+
+Main spec. Summary [Screenshot](https://github.com/Hckntsh/GigabyteZ490VisionDHack/blob/main/Screenshot.png)
 (-*-)
 
 Here are the main specs:
