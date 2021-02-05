@@ -1,4 +1,4 @@
-GIGABYTE Z490 VISION D Hackintosh
+GIGABYTE Z490 VISION D Hackintosh with 4x Thunderbolt 3 Ports.
 
 
 Main spec. Summary [Screenshot](https://github.com/Hckntsh/GigabyteZ490VisionDHack/blob/main/Screenshot.png)
@@ -20,6 +20,9 @@ Here are the main specs:
 
 • Case: Loop StormForce Tabular E-ATX/ATX Aluminium Case
 
+• Add-on PCIE-Card: 2x Gigabyte Titan Ridge 2, Sonnet Technologies USB3-4PM-E Allegro.
+
+
 (-*-)
 
 +Peripherals:
@@ -38,10 +41,7 @@ Here are the main specs:
 
 (-*-)
 
-What's Not working (or in working progress):
-
-Thunderbolt 3 not showing up in SystemReport (Thunderbolt: No drivers are loaded), Thunderbolt 3 maybe working if the external usb-C device is connected from the boot.
-Apart from that, everything else works including Sidecar. Haven't tested Handoff, iMessage and Airdrop yet.
+Everything works including Sidecar. Haven't tested Handoff, iMessage, Facetime and Airdrop yet.
 
 (-*-)
 
