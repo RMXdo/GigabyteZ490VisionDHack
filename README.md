@@ -1,4 +1,4 @@
-GIGABYTE Z490 VISION D Hackintosh with 4x Thunderbolt 3 Ports.
+GIGABYTE Z490 VISION D Hackintosh with 6x Thunderbolt 3 Ports.
 
 
 Main spec. Summary [Screenshot](https://github.com/Hckntsh/GigabyteZ490VisionDHack/blob/main/Screenshot.png)
