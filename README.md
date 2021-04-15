@@ -12,7 +12,7 @@ Here are the main specs:
 
 • GPU: Sapphire AMD RX 5500XT 8GB (with NZXT KRAKEN G12 GPU Cooling bracket and NZXT Kraken x73)
 
-• Memory: Corsair Vengeance LPX 64 GB (2x32 GB) DDR4 3200 (CMK64GX4M2E3200C16)
+• Memory: Corsair Vengeance LPX 128 GB (4x32 GB) DDR4 3200
 
 • Storage: Samsung 980 Pro 1TB MZ-V8P1T0BW, Sabrent Rocket 2TB Nvme, WD Black WDS250G2X0C 250GB (Windows 10 installed)
 
