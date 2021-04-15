@@ -20,7 +20,12 @@ Here are the main specs:
 
 • Case: Loop StormForce Tabular E-ATX/ATX Aluminium Case
 
-• Add-on PCIE-Card: 2x Gigabyte Titan Ridge 2, Sonnet Technologies USB3-4PM-E Allegro.
+• Add-on PCIE-Card: Sonnet Allegro USB3C-4PM-E USB-C 4-Port PCIe Card
+
+• Add-on PCIE-Card: Sonnet Technologies USB3-4PM-E Allegro PCI-e Card
+
+• Add-on PCIE-Card: Inateck PCIe KU5211
+
 
 
 (-*-)
