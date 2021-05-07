@@ -14,7 +14,7 @@ Here are the main specs:
 
 • Memory: Corsair Vengeance LPX 128 GB (4x32 GB) DDR4 3200
 
-• Storage: Samsung 980 Pro 1TB MZ-V8P1T0BW, Sabrent Rocket 2TB Nvme, WD Black WDS250G2X0C 250GB (Windows 10 installed)
+• Storage: 2x Sabrent Rocket 2TB Nvme, WD Black WDS250G2X0C 250GB (Windows 10 installed)
 
 • PSU: PSU: Super Flower Leadex Platinum 2000w
 
@@ -24,7 +24,7 @@ Here are the main specs:
 
 • Add-on PCIE-Card: Sonnet Technologies USB3-4PM-E Allegro PCI-e Card
 
-• Add-on PCIE-Card: Inateck PCIe KU5211
+•
 
 
 
